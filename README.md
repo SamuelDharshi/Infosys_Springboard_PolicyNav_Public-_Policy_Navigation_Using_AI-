@@ -36,6 +36,7 @@ Open the public ngrok URL in your browser.
 
 ```bash
 pip install streamlit pyjwt pyngrok
+```
 
 Screenshots
 Signup Page
