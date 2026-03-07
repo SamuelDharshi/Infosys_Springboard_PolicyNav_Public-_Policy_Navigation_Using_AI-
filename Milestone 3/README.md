@@ -1,6 +1,6 @@
 # PolicyNav: Milestone 3 - AI Intelligence & Multilingual Engine
 
-This milestone marks the integration of advanced Natural Language Processing (NLP) and Retrieval-Augmented Generation (RAG) to transform static policy documents into an interactive, multilingual knowledge base..
+This milestone marks the integration of advanced Natural Language Processing (NLP) and Retrieval-Augmented Generation (RAG) to transform static policy documents into an interactive, multilingual knowledge base.
 
 ## 1. Q&A Multi-Language Engine
 The core of the "Public Policy Compass" is a bi-directional RAG system that allows users to query complex documents in their native tongue.
@@ -38,4 +38,5 @@ pip install streamlit pyjwt bcrypt python-dotenv pyngrok nltk streamlit-option-m
     sentence-transformers faiss-cpu beautifulsoup4 spacy pyvis networkx \
     transformers accelerate bitsandbytes -q
 python -m spacy download en_core_web_sm -q
+
 
