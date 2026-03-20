@@ -1,4 +1,3 @@
-
 # Infosys_SpringBoard_Public_Policy_Navigation
 # Infosys_Springboard_PolicyNav_Public-_Policy_Navigation_Using_AI
 # 🧠 PolicyNav
@@ -192,7 +191,7 @@ Ngrok is used to expose your Streamlit app running in Colab to the internet.
 
 1. Open your notebook in **Google Colab**  
 2. Click the **🔐 Secrets (key icon)** in the left sidebar  
-3. Click **“Add new secret”**  
+3. Click **"Add new secret"**  
 4. Enter:
 
 | Key | Value |
